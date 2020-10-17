@@ -57,8 +57,7 @@ header img{
 }
 main{
  margin: 0 auto;
- padding-right: 5px;
- padding-left: 70px;
+ width: 800px;
 }
 h2{
 	font-size: 25px;
